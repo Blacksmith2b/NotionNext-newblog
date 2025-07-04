@@ -27,7 +27,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '互联网观察', url: '/互联网观察' },
+  HEO_HERO_CATEGORY_1: { title: '互联网观察', url: '/tag/互联网观察' },
   HEO_HERO_CATEGORY_2: { title: 'GPT+AI+Notion', url: '/tag/GPT+AI+Notion' },
   HEO_HERO_CATEGORY_3: { title: '低代码+自动化+B端', url: '/tag/低代码+自动化+B端' },
 
