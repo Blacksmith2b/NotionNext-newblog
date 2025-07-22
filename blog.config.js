@@ -14,7 +14,7 @@ const BLOG = {
   APPEARANCE: process.env.NEXT_PUBLIC_APPEARANCE || 'dark', // 你的个性化优先
   APPEARANCE_DARK_TIME: process.env.NEXT_PUBLIC_APPEARANCE_DARK_TIME || [18, 6],
 
-  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '令狐afmaof', // 你的个性化优先
+  AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'blacksmith', // 你的个性化优先
   BIO: process.env.NEXT_PUBLIC_BIO || '一条孤独游荡的产品狗🍚', // 你的个性化优先
   LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.lhuafmaof.cn', // 你的个性化优先
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '互联网,AI,Chatgpt,B端,工具产品', // 你的个性化优先
