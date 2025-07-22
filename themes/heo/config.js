@@ -25,10 +25,8 @@ const CONFIG = {
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
-  // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '互联网观察', url: '/tag/互联网观察' },
-  HEO_HERO_CATEGORY_2: { title: 'GPT+AI+Notion', url: '/tag/GPT+AI+Notion' },
-  HEO_HERO_CATEGORY_3: { title: '低代码+自动化+B端', url: '/tag/低代码+自动化+B端' },
+  // 英雄区显示三个置顶分类  此处删除了三个标题列
+
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
