@@ -15,12 +15,12 @@ const BLOG = {
   APPEARANCE_DARK_TIME: process.env.NEXT_PUBLIC_APPEARANCE_DARK_TIME || [18, 6],
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'blacksmith', // 你的个性化优先
-  BIO: process.env.NEXT_PUBLIC_BIO || '一条孤独游荡的产品狗🍚', // 你的个性化优先
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.lhuafmaof.cn', // 你的个性化优先
-  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '互联网,AI,Chatgpt,B端,工具产品', // 你的个性化优先
+  BIO: process.env.NEXT_PUBLIC_BIO || 'Making China Travel Easy', // 你的个性化优先
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.travel2cn.cn', // 你的个性化优先
+  KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'China travel, travel to China, China travel guide, China visa, Alipay for foreigners, WeChat pay for tourists, best VPN for China, China travel tips, China itinerary, Beijing, Shanghai, Xi an, Guilin, Chengdu',
   BLOG_FAVICON: process.env.NEXT_PUBLIC_FAVICON || '/favicon.ico',
   BEI_AN: process.env.NEXT_PUBLIC_BEI_AN || '',
-  BEI_AN_LINK: process.env.NEXT_PUBLIC_BEI_AN_LINK || 'https://beian.miit.gov.cn/',
+  BEI_AN_LINK: process.env.NEXT_PUBLIC_BEI_AN_LINK || '',
 
   ENABLE_RSS: process.env.NEXT_PUBLIC_ENABLE_RSS || true,
 
@@ -54,7 +54,7 @@ const BLOG = {
 
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    'Hi，我是一个产品狗🎉',
+    'Making China Travel Easy🎉',
 
   UUID_REDIRECT: process.env.UUID_REDIRECT || false
 }
