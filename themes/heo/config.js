@@ -4,26 +4,27 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2025-07-23', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
   ],
 
   // 英雄区左右侧组件颠倒位置
-  HEO_HERO_REVERSE: false,
+  HEO_HERO_REVERSE: true,
   // 博客主体区左右侧组件颠倒位置
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享思考',
-  HEO_HERO_TITLE_2: '与实践历程',
-  HEO_HERO_TITLE_3: 'LHUAFMAOF.CN',
+  HEO_HERO_TITLE_1: 'Beyond the Map',
+  HEO_HERO_TITLE_2: 'And Into the Journey',
+  HEO_HERO_TITLE_3: 'TRAVEL2CN.CN',
   HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '西子湖畔 养意蓄力',
+  HEO_HERO_TITLE_5: 'Start Here',
+  // 这里需要改
   HEO_HERO_TITLE_LINK: 'https://www.lhuafmaof.cn/',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: 'Take a Look Around',
 
   // 英雄区显示三个置顶分类  此处删除了三个标题列
 
